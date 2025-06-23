@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Wai Yan Linn — The Code Blacksmith ⚒️
 
-<!--
-**ducothepaladin/ducothepaladin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack Developer passionate about building creative, user-focused web apps and game-inspired projects.
 
-Here are some ideas to get you started:
+##  What I Do
+-  Crafting frontend experiences with **React**, **TypeScript**, **Zustand**, and **ShadCN UI**
+-  Building APIs and backend systems with **Node.js**, **Express**, and **MongoDB (Mongoose)**
+-  **Cat vs Cat** — A multiplayer online web game (in progress)
+-  Constantly learning: **State management**, **Caching with React Query**, and scalable app structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Focus
+**Frontend:** React, TypeScript, Zustand, Tailwind, HTML5 Canvas  
+**Backend:** Node.js, Express, MongoDB (Mongoose), MySQL  
+**Extras:** Token-based Auth, Web Socket, REST APIs  
+
+> *"Code is raw material — forge it right, and it becomes something powerful."*
+
+---
