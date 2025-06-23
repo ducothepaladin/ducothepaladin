@@ -8,7 +8,7 @@ I'm a Fullstack Developer passionate about building creative, user-focused web a
 -  **Cat vs Cat** — A multiplayer online web game (in progress)
 -  Constantly learning: **State management**, **Caching with React Query**, and scalable app structures
 
-## 🛠 Tech Focus
+## ⚒️ Tech Focus
 **Frontend:** React, TypeScript, Zustand, Tailwind, HTML5 Canvas  
 **Backend:** Node.js, Express, MongoDB (Mongoose), MySQL  
 **Extras:** Token-based Auth, Web Socket, REST APIs  
